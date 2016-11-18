@@ -1,4 +1,4 @@
 define([], function (require, factory) {
     'use strict';
-     cosnole.log("module2 loaded");
+     console.log("module2 loaded");
 });
